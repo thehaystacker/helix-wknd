@@ -1,0 +1,15 @@
+.social-links {
+  display: flex;
+  justify-content: space-around;
+}
+.social-links a {
+  background-color: #fff;
+  display: block;
+  margin-left: 5px;
+}
+.social-links a svg {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  padding: 5px 5px 8px;
+}
