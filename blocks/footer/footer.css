@@ -30,3 +30,7 @@ footer .footer p {
 .footer > div > div > ul {
   list-style: none;
 }
+
+footer picture img {
+  width: 180px;
+}
